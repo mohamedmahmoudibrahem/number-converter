@@ -1,4 +1,5 @@
-
+# using simple code statement in python language for beginner
+# program to convert between numbers
 a=input("enter number you want to convert: ")
 b=int(input("enter number base: "))
 c=int(input("enter base that you want convert to it: "))
